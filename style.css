@@ -52,7 +52,7 @@ body {
 }
 
 .l-column a {
-  margin: 8px 0px 0px 8px;
+  margin: 8px 5px 0 0;
   padding: 8px 0px;
   font-size: 14px;
   text-align: center;
@@ -72,4 +72,10 @@ hr {
   border: 0;
   border-bottom: 1px solid var(--hr-color);
   margin: 20px 0;
+}
+
+@media screen and (max-width: 600px){
+  .container {
+    width: 75vw;
+  }
 }
