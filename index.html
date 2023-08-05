@@ -55,9 +55,18 @@
             cursor: pointer;
             background-color: #1c232c;
         }
+        .picture {
+            margin: auto;
+            border-radius: 50%;
+            background-color: #1c232c;
+            width: 125px;
+            height: 125px;
+        }
         @media (max-width: 768px) {
             .container {
                 flex-direction: column;
+                width: 90vw;
+                height: 90vh;
             }
         }
     </style>
@@ -65,6 +74,7 @@
 <body>
     <div class="container">
         <div class="sidebar">
+            <div class="picture"></div>
             <p>Felipe Eliseu</p>
             <a class="item" href="#">Link #1</a>
             <a class="item" href="#">Link #1</a>
