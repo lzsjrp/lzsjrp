@@ -1,24 +1,77 @@
-<html lang="en">
+<!DOCTYPE html>
+<html lang="pt">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
     <title>@attsapsa</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100vw;
+            height: 100vh;
+            text-align: center;
+            background: linear-gradient(50deg, #b127f1, #b040f1, #8d16ee);
+            font-family: 'Open Sans', sans-serif;
+        }
+        .container {
+            text-align: left;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #0d1117;
+            color: #ffffff;
+            width: 95vw;
+            height: 89vh;
+            overflow: hidden;
+            display: flex;
+            border-radius: 10px;
+        }
+        .sidebar,
+        .content {
+            padding: 12px;
+        }
+        .sidebar {
+            text-align: center;
+            background-color: #13191f;
+            flex: 1;
+        }
+        .content {
+            background-color: #0e1216;
+            flex: 8;
+        }
+        .sidebar .item {
+            display: block;
+            padding: 10px;
+            background-color: #1a2029;
+            margin: 11px 5px;
+            border-radius: 10px;
+            text-decoration: none;
+            color: #ffffff;
+        }
+        .sidebar .item:hover {
+            cursor: pointer;
+            background-color: #1c232c;
+        }
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+        }
+    </style>
 </head>
 <body>
     <div class="container">
-        <text class="name">Felipe Eliseu</text>
-        <hr>
-        <div class="l-row">
-            <div class="l-column">
-                <a href="https://github.com/attsapsa"><i class="bi bi-github"></i> Github</a>
-                <a href='#'><i class="bi bi-twitter"></i> Twitter</a>
-            </div>
-            <div class="l-column">
-                <a href='#'><i class="bi bi-linkedin"></i> Linkedin</a>
-                <a href="mailto:att.me@proton.me"><i class="bi bi-envelope-fill"></i> Contato</a>
-            </div>
+        <div class="sidebar">
+            <p>Felipe Eliseu</p>
+            <a class="item" href="#">Link #1</a>
+            <a class="item" href="#">Link #1</a>
+            <a class="item" href="#">Link #1</a>
+        </div>
+        <div class="content">
+
         </div>
     </div>
 </body>
