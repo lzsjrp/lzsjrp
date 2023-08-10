@@ -6,7 +6,7 @@
       <li>🎉 07-2005</li>
       <li>🌍 São José do Rio Preto, São Paulo</li>
       <li>🌕 Learning <a href='https://www.lua.org/'>www.lua.org</a></li>
-      <li>📝 <a href='mailto:att.me@proton.me?subject=Olá!'>attmee@proton.me</a></li>
+      <li>📝 <a href='mailto:attmee@proton.me?subject=Olá!'>attmee@proton.me</a></li>
     </ul>
     <a href="https://twitter.com/#">Twitter</a> •
     <a href="#">Website</a> •
