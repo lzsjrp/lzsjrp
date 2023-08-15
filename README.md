@@ -6,7 +6,7 @@
       <li>🎉 07-2005</li>
       <li>🌍 São José do Rio Preto, São Paulo</li>
       <li>🌕 Learning <a href='https://www.lua.org/'>www.lua.org</a></li>
-      <li>📝 <a href='mailto:attmee@proton.me?subject=Olá!'>attmee@proton.me</a></li>
+      <li>📝 <a href='mailto:lhs11c@proton.me?subject=Hello!'>attmee@proton.me</a></li>
     </ul>
     <a href="https://twitter.com/#">Twitter</a> •
     <a href="#">Website</a> •
@@ -17,8 +17,8 @@
     <text>:v:</text>
   </div>
   <div align="center">
-   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=attmee&show_icons=true&theme=dracula" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attmee&langs_count=1&theme=dracula" />
+   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=lhs11c&show_icons=true&theme=dracula" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhs11c&langs_count=1&theme=dracula" />
   </div>
   <hr>
 </div>
