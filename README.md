@@ -15,5 +15,3 @@
 ![](https://komarev.com/ghpvc/?username=lzsjrp&style=for-the-badge&color=blue)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lzsjrp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.eliseu@unesp.br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzsjrp&layout=compact&theme=tokyonight)
